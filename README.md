@@ -1,5 +1,5 @@
-# Zadania-zaliczeniowe
-Zadania zaliczeniowe - kurs 'Tester Automatyzujący' CODERSLAB
+# Zadania-zaliczeniowe kurs Tester Automatyzujący CODERSLAB
+ŁUKASZ GAWRON
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
